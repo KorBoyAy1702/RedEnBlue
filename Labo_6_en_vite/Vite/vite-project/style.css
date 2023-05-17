@@ -1,0 +1,9 @@
+.container{
+  display: flex;
+}
+#redButton{
+  background-color: red;
+}
+#blueButton{
+  background-color: blue;
+}

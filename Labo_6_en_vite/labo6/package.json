@@ -1,0 +1,16 @@
+{
+  "name": "labo6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
